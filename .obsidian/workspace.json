@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "02224bd9b9e08350",
+    "type": "split",
+    "children": [
+      {
+        "id": "000cfb6f1ed6d13e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3df49ac3395002d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5427492a2d6d51c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c9e480516ca720a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79de0e7f1ea00680",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8012643cecacd240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4ffc89871abaded",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e3da6dbbbebcd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ace084b1d3240f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "207470942be30060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5735e665d1b85987",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77c191b59bf14d58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eea93faa3bd7313c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-08-WeeklyDiary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b3df49ac3395002d",
+  "lastOpenFiles": [
+    "_posts/2023-08-13-WeeklyDiary.md",
+    "_posts/2023-10-02-WeeklyDiary.md",
+    "_posts/2023-09-08-The_Custom_Land.md",
+    "_posts/2023-06-04-WeeklyDiary.md",
+    "_posts/2023-08-6-WeeklyDiary.md",
+    "_posts/2024-01-08-WeeklyDiary.md",
+    "_posts/2023-09-02-WeeklyDiary.md",
+    "assets/media/Pasted image 20240108212000.png",
+    "assets/media/Pasted image 20240108212218.png",
+    "assets/media/Pasted image 20240108212123.png",
+    "assets/media/Pasted image 20240108212036.png",
+    "assets/media/Pasted image 20240108211726.png",
+    "_posts/2023-12-23-WeeklyDiary.md",
+    "_posts/2023-12-05-WeeklyDiary.md",
+    "assets/media/20220502_liveInShangHai_01.jpeg",
+    "_posts/2022-05-14-liveInShangHai.md",
+    "_posts/2022-05-08-liveInShangHai.md",
+    "screenshots/highlight_tomorrow.png",
+    "_posts/2022-05-04-liveInShangHai.md",
+    "_posts/2023-11-20-WeeklyDiary.md"
+  ]
+}
