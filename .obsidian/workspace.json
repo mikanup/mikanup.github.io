@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "file": "_posts/2024-01-21-WeeklyDiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "file": "_posts/2024-01-21-WeeklyDiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-08-WeeklyDiary.md",
+                "file": "_posts/2024-01-21-WeeklyDiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-08-WeeklyDiary.md"
+                "file": "_posts/2024-01-21-WeeklyDiary.md"
               }
             }
           }
@@ -148,24 +148,28 @@
   },
   "active": "b3df49ac3395002d",
   "lastOpenFiles": [
+    "assets/media/Pasted image 20240121211122.png",
+    "_posts/2024-01-08-WeeklyDiary.md",
+    "_posts/2024-01-21-WeeklyDiary.md",
+    "assets/media/Pasted image 20240121211424.png",
+    "assets/media/Pasted image 20240121211412.png",
+    "assets/media/Pasted image 20240121211239.png",
+    "assets/media/Pasted image 20240121211154.png",
+    "assets/media/Pasted image 20240121211137.png",
     "_posts/2023-08-13-WeeklyDiary.md",
     "_posts/2023-10-02-WeeklyDiary.md",
     "_posts/2023-09-08-The_Custom_Land.md",
     "_posts/2023-06-04-WeeklyDiary.md",
     "_posts/2023-08-6-WeeklyDiary.md",
-    "_posts/2024-01-08-WeeklyDiary.md",
     "_posts/2023-09-02-WeeklyDiary.md",
     "assets/media/Pasted image 20240108212000.png",
     "assets/media/Pasted image 20240108212218.png",
     "assets/media/Pasted image 20240108212123.png",
     "assets/media/Pasted image 20240108212036.png",
-    "assets/media/Pasted image 20240108211726.png",
     "_posts/2023-12-23-WeeklyDiary.md",
     "_posts/2023-12-05-WeeklyDiary.md",
-    "assets/media/20220502_liveInShangHai_01.jpeg",
     "_posts/2022-05-14-liveInShangHai.md",
     "_posts/2022-05-08-liveInShangHai.md",
-    "screenshots/highlight_tomorrow.png",
     "_posts/2022-05-04-liveInShangHai.md",
     "_posts/2023-11-20-WeeklyDiary.md"
   ]
