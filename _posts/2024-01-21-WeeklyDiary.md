@@ -54,13 +54,13 @@ tags:
 为了我的退休计划，我开始带饭了。上周去了两天公司，所以做了两次，最后一份是明天要带的。
 厨艺第一名的我。
 
-![小金真棒](https://mikanup.github.io/assets/media/Pasted image 20240121211122.png"小金真棒")
+![小金真棒](https://github.com/mikanup/mikanup.github.io/blob/master/assets/media/Pasted%20image%2020240121211122.png"小金真棒")
 
-![小金真棒](https://mikanup.github.io/assets/media/Pasted image 20240121211137.png"小金真棒")
+![小金真棒](https://github.com/mikanup/mikanup.github.io/blob/master/assets/media/Pasted%20image%20240121211137.png"小金真棒")
 
-![小金真棒](https://mikanup.github.io/assets/media/Pasted image 20240121211239.png"小金真棒")
+![小金真棒](https://github.com/mikanup/mikanup.github.io/blob/master/assets/media/Pasted%20image%20240121211239.png"小金真棒")
 
 今天在荒川跑步拍的，下次要带go3去拍，确实风景无敌好。
-![跑步开始](https://mikanup.github.io/assets/media/Pasted image 20240121211412.png"跑步开始")
+![跑步开始](https://github.com/mikanup/mikanup.github.io/blob/master/assets/media/Pasted%20image%20240121211412.png"跑步开始")
 
-![跑步结束](https://mikanup.github.io/assets/media/Pasted image 20240121211424.png"跑步结束")
+![跑步结束](https://github.com/mikanup/mikanup.github.io/blob/master/assets/media/Pasted%20image%20240121211424.png"跑步结束")
